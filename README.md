@@ -32,6 +32,6 @@ Before you jump in, check out the [D4D contribution tutorial](https://github.com
 
 - **Issues on Issues**. No pun intended, we have itemized GitHub issues for pieces of this project that we need help working on from contributors. The tasks will be broken down by type of work required and by skill level. If you're a first time contributor, look for issues that are tagged with `beginner-friendly` in order to try on getting involved 
 
-- **Man oh Managing: **We are looking for a D4D community leader to help break this project down and make it easier for fellow contributors to work on. This would be a great position for someone who is looking to get some data-science management experience. Responsibilities would be helping translate the project goals into GitHub issues and managing other aspects of the project. Feel free to slack the project leads if that is something you are interested in.
+- **Man oh Managing.** We are looking for a D4D community leader to help break this project down and make it easier for fellow contributors to work on. This would be a great position for someone who is looking to get some data-science management experience. Responsibilities would be helping translate the project goals into GitHub issues and managing other aspects of the project. Feel free to slack the project leads if that is something you are interested in.
 
 
