@@ -3,15 +3,16 @@ parade-db
 
 **Slack:** #parade-db
 
-| Project Leads| |
-| --- | --- |
-| @rgalbo | fill-position |  
+| Project Leads| 
+| --- |
+| @rgalbo | 
+| fill-position |
 
 **contributors:**
  
 Project Description
 ---
-Data 4 Democracy partnering with SocialWorks to build a non-partisan elections data base. SocialWorks created their [Parade to the Polls](http://www.socialworkschi.org/paradetothepolls) initiative in order to increase engagement in the democratic process. As the SocialWorks' voting empowerment initiative expands, so does the need to make sure people are informed when they enter the voting booth. 
+Data for Democracy is partnering with SocialWorks to build a non-partisan elections data base. SocialWorks created their [Parade to the Polls](http://www.socialworkschi.org/paradetothepolls) initiative in order to increase engagement in the democratic process in 2016. As the SocialWorks' voting empowerment initiative expands, so does the need to make sure people are informed when they enter the voting booth. 
 
 _Issues_ are the cornerstone of American Politics and have recently almost become an afterthought. The failure of current tools to facilitate access to information about the candidates we vote for in elections has left voters in the dark. This database will help make voter education easy by aggregating candidate issues, voting records, past voting results and campaign donations to present in a succinct way. This D4D project will attempt to organize public information in a non-partisan way to make understanding who represents your interests on elections day fun and easy.
 
